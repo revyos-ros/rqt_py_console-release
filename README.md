@@ -1,3 +1,26 @@
+## rqt_py_console (jazzy) - 1.2.2-4
+
+The packages in the `rqt_py_console` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rqt_py_console --override-release-repository-push-url git@github.com:revyos-ros/rqt_py_console-release` on `Mon, 24 Jun 2024 07:37:24 -0000`
+
+The `rqt_py_console` package was released.
+
+Version of package(s) in repository `rqt_py_console`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_py_console.git
+- release repository: https://github.com/revyos-ros/rqt_py_console-release.git
+- rosdistro version: `1.2.2-3`
+- old version: `1.2.2-3`
+- new version: `1.2.2-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_py_console (rolling) - 1.3.0-1
 
 The packages in the `rqt_py_console` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rqt_py_console --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 12:43:09 -0000`
